@@ -1,6 +1,6 @@
 /**
   MQTT433gateway - MQTT 433.92 MHz radio gateway utilizing ESPiLight
-  Project home: https://github.com/puuu/MQTT433gateway/
+  Project home: https://github.com/janLo/MQTT433gatewayNG/
 
   The MIT License (MIT)
 

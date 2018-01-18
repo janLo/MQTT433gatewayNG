@@ -2,7 +2,7 @@
 
 """MQTT433gateway web interface builder
 
-Project home: https://github.com/puuu/MQTT433gateway/
+Project home: https://github.com/janLo/MQTT433gatewayNG/
 """
 
 import os

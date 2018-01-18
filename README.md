@@ -1,6 +1,8 @@
-[![Build Status](https://travis-ci.org/puuu/MQTT433gateway.svg?branch=master)](https://travis-ci.org/puuu/MQTT433gateway)
+[![Build Status](https://travis-ci.org/janLo/MQTT433gatewayNG.svg?branch=master)](https://travis-ci.org/janLo/MQTT433gatewayNG)
 
-# MQTT433gateway
+# MQTT433gatewayNG
+
+This project is a fork of https://github.com/puuu/MQTT433gateway
 
 This Project implements a [MQTT](https://en.wikipedia.org/wiki/MQTT)
 433.92MHz radio-frequency device gateway.  This is a IoT bridge to

@@ -1,6 +1,6 @@
 /*
   Heartbeat - Library for flashing LED
-  Project home: https://github.com/puuu/MQTT433gateway/
+  Project home: https://github.com/janLo/MQTT433gatewayNG/
 
   The MIT License (MIT)
 

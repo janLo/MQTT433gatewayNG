@@ -2,7 +2,7 @@
 
 """MQTT433gateway firmware version builder
 
-Project home: https://github.com/puuu/MQTT433gateway/
+Project home: https://github.com/janLo/MQTT433gatewayNG/
 """
 
 from subprocess import check_output
