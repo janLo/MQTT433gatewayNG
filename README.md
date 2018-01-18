@@ -4,6 +4,8 @@
 
 This project is a fork of https://github.com/puuu/MQTT433gateway
 
+**Attention**: The documentation is slightly outdated. Will be updated soon.
+
 This Project implements a [MQTT](https://en.wikipedia.org/wiki/MQTT)
 433.92MHz radio-frequency device gateway.  This is a IoT bridge to
 couple popular RF devices like RC power-socket switches or weather
