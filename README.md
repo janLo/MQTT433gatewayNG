@@ -2,7 +2,13 @@
 
 # MQTT433gatewayNG
 
-This project is a fork of https://github.com/puuu/MQTT433gateway
+This project is a fork of [puuu/MQTT433gateway](https://github.com/puuu/MQTT433gateway). It adds the following features:
+* All option like device-name, MQTT topics, enabled protocols, etc can be set via runtime without recompiling or reflashing.
+* All configuration is done via a WebUI.
+* The user can select the WiFi network via a WebUI.
+* Logging can be done via remote syslog.
+* Updates can be done via the WebUI.
+* The ESP runs with 160MHz instead of 80MHf.
 
 **Attention**: The documentation is slightly outdated. Will be updated soon.
 
